@@ -1,5 +1,4 @@
-# Lesson: Digital & Serious Games
-
+Ψηφιακά Παιχνίδια και Παιγνιώδης Μάθηση - Εργασία Εξαμήνου
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
 ### GitHub Personal Profile: xxx
